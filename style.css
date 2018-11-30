@@ -1,0 +1,27 @@
+.main {
+    padding: 30px;
+    border: 3px solid #2e6da4;
+    text-align: center;
+}
+
+.div-main {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.login-div {
+    max-width: 300px;
+}
+
+.logout-link{
+    text-align: center;
+}
+
+.buttons {
+    max-width: 200px;
+    text-align: center;
+}
+
